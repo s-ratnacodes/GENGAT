@@ -1,4 +1,4 @@
-# GENGAT
+# GENGAT Framework
 
 **[S Ratna¹, Sukhdeep Singh², Anuj Sharma¹*]** 
 [1 Department of Computer Science and Applications, Panjab University, Chandigarh, India
@@ -26,7 +26,7 @@ All 6 datasets are loaded directly from [PyTorch Geometric (PyG)](https://pytorc
 | 3 | Actor | `heterophilic` | Co-occurence Network |
 | 4 | Amazon Photo | `homophilic` | Co-purchase Graph |
 | 5 | Amazon Computers | `homophilic` | Co-purchase Graph |
-| 6 | Coauthor Physics | `homophilic` |  |Co-authored network
+| 6 | Coauthor Physics | `homophilic` | Co-authored network |
 
 
 
@@ -59,7 +59,7 @@ All 6 datasets are loaded directly from [PyTorch Geometric (PyG)](https://pytorc
 CODE.ipynb  
 ```
 
-### Visualization
+### Training graphs
 
 ```
 training1.ipynb
@@ -83,9 +83,6 @@ Install dependencies by running the first cell:
 pip install torch torch_geometric scikit-learn matplotlib
 ```
 
----
-
----
 
 ## Results
 
@@ -123,13 +120,6 @@ Results are reported as **Mean ± Std** over **10 runs** with two random node sp
 
 
 
-## Installation
-
-```bash
-pip install torch torch_geometric scikit-learn matplotlib
-```
-
----
 
 
 
@@ -142,10 +132,6 @@ The work presented in this paper is supported by the Department of Computer Scie
 - **[PyTorch](https://pytorch.org/)** — The deep learning framework used for all model implementation and training.
 - **[PyTorch Geometric (PyG)](https://pytorch-geometric.readthedocs.io/)** — The graph neural network library used for dataset loading, graph convolutions, and sparse operations.
 - GENConv — Li, Guohao, et al. "Deepergcn: All you need to train deeper gcns." arXiv preprint arXiv:2006.07739 (2020).
-- GAT - Veličković, Petar, et al. "Graph attention networks." arXiv preprint arXiv:1710.10903 (2017).
-- UMAP used for visulaization : McInnes, Leland, John Healy, and James Melville. "Umap: Uniform manifold approximation and projection for dimension reduction." arXiv preprint arXiv:1802.03426 (2018).
-  
-
- 
+- GAT - Veličković, Petar, et al. "Graph attention networks." arXiv preprint arXiv:1710.10903 (2017). 
 ---
  
