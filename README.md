@@ -1,10 +1,14 @@
 # GENGAT Framework
 
-**[S Ratna¹, Sukhdeep Singh², Anuj Sharma¹*]** 
-[1 Department of Computer Science and Applications, Panjab University, Chandigarh, India
+**[S Ratna¹, Sukhdeep Singh², Anuj Sharma¹*]**  
+
+[1 Department of Computer Science and Applications, Panjab University, Chandigarh, India 
+
 sratna@pu.ac.in, anujs@pu.ac.in
+
 2 Department of Computer Science, D.M. College (affiliated to Panjab University, Chandigarh), Moga, Punjab, India
-sukha13@ymail.com]    
+sukha13@ymail.com] 
+
 > 📦 Framework: PyTorch Geometric  
 > 🧪 Task: Node Classification
 
